@@ -14,5 +14,5 @@
       
   
 实验效果：
-     ![](https://github.com/BenGJ/xmu-2016-BenGJ/raw/master/1.gif)
+     ![](https://github.com/BenGJ/xmu-2016-BenGJ/raw/master/1.png)
       
